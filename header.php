@@ -16,7 +16,7 @@
             <li class="active"><a href="#">Accueil</a></li>
             <li><a href="#">Shop</a></li>
             <li><a href="#">Contact</a></li>
-            <li><a href="#">Connexion</a></li>
+            <li><a href="connexion.html">Connexion</a></li>
             <li><a href="#" >profil</a></li>
             <li><a href="#" class="cta">panier</a></li>
 
