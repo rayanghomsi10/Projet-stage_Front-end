@@ -9,6 +9,10 @@
     <title>footer</title>
 </head>
 <body>
+
+
+
+
 <div class="footer">
     <footer>
         <div class="waves">
